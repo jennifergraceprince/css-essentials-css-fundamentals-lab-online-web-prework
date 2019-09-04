@@ -11,9 +11,7 @@ h1 {
 nav {
   text-align: center;
 }
-p {
-  text-align: center;
-}
+
 featured-property {
-  margin: auto;
+  text-align: center;
 }
